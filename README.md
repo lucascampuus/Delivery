@@ -1,9 +1,7 @@
 # Delivery PHP
 
-# Getting Started
-
-To get started you must first install the package from composer.
+Desenvolvido em PHP/JS/Mysql
 
 ```
-composer require danrovito/pokephp
+Em breve no ar!
 ```
